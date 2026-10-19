@@ -1,17 +1,17 @@
 body{
-    background:#fff;
+    background:#8385df;
     margin: 0;
     font-family: Arial, sans-serif;
   line-height: 1.6;
-  color: #333;
+  color: plum;
 }
 header {
-  background: #222;
-  color: white;
+  background: #8e8fec;
+  color: plum;
   padding: 20px;
 }
 nav{
-    background: #444;
+    background: #f554b283;
 }
 nav a{
     color: #fff;
