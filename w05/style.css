@@ -3,11 +3,11 @@ body{
     margin: 0;
     font-family: Arial, sans-serif;
   line-height: 1.6;
-  color: rgb(129, 123, 129);
+  color: rgb(163, 161, 161);
 }
 header {
-  background: #d2d2d6;
-  color: rgb(250, 245, 250);
+  background: #0f0f0f;
+  color: rgb(158, 154, 158);
   padding: 20px;
 }
 nav{
@@ -28,7 +28,7 @@ section{
 }
 
 article{
-  border: 1px solid#ddd;
+  border: 1px solid#000000;
   padding:20px;
   margin:20px 0;
   border-radius: 10px;
@@ -40,3 +40,16 @@ footer{
   text-align: center;
   padding: 20px
 }
+
+.clubs{
+  gap:20px;
+  display:flex;
+}
+
+.card{
+  background:#ddd;
+  padding: 30px;
+  border:1px solid #969191;
+  border-radius: 5px;
+}
+
